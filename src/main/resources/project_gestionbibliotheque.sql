@@ -65,7 +65,7 @@ CREATE TABLE `emprunteur` (
 --
 
 INSERT INTO `emprunteur` (`id`, `age`, `email`, `nom`, `password`, `prenom`, `tel`, `ville`) VALUES
-(1, 25, 'nadher.arroum@gmail.com', 'Arroum', '$2a$10$unGmqk3peX9zCErwE/U3QOsPkGd4IT9DFOPcw6QdyJc4ZSi4vSzjK', 'Nadher', 55840111, 'Tozeur');
+(1, 25, 'nadher@gmail.com', 'Arroum', '$2a$10$unGmqk3peX9zCErwE/U3QOsPkGd4IT9DFOPcw6QdyJc4ZSi4vSzjK', 'Nadher', 55840111, 'Tozeur');
 
 -- --------------------------------------------------------
 
